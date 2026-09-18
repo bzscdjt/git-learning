@@ -1,1 +1,2 @@
 ﻿第1天：学习 Git
+已学会：status、add、commit
